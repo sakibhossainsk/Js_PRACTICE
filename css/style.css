@@ -1,0 +1,19 @@
+.c_padd{
+	padding-bottom: 50px;
+}
+h1{
+	font-size: 20px;
+}
+.cm_btn {
+    margin: 30px 0 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}  
+.cm_btn:hover{
+	border: 2px solid darkred;
+    border-radius: 10px;
+    background-color: #8e8e8e;  
+}
+h2{
+	font-size: 18px;
+} 
